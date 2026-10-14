@@ -1,0 +1,6 @@
+{
+  "name": "FinanIA - Assistente Financeiro Inteligente",
+  "description": "Assistente de IA financeira para controle de gastos via texto, áudio e notas fiscais sincronizado com o Google Sheets.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
